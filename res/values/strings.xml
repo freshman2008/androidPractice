@@ -4,8 +4,14 @@
     <string name="app_name">MyMusicPlayer</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="Prev">Prev</string>
     <string name="Play">Play</string>
+    <string name="Next">Next</string>
+    <string name="Pause">Pause</string>
     <string name="Stop">Stop</string>
     <string name="Exit">Exit app</string>
+    <string name="Mode1">I</string>
+    <string name="Mode2">O</string>
+    <string name="Mode3">X</string>
 
 </resources>
